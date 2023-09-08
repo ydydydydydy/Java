@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ex02연산자.Ex09삼항연산자&apos; to &apos;Ex09삼항연산자홀짝판별&apos;&#x0D;&#x0A;- Original project: &apos;Ex01변수와연산자&apos;&#x0D;&#x0A;- Original element: &apos;ex02연산자.Ex09삼항연산자&apos;&#x0D;&#x0A;- Renamed element: &apos;ex02연산자.Ex09삼항연산자홀짝판별&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex09삼항연산자&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ex02연산자{Ex09삼항연산자.java[Ex09삼항연산자" matchStrategy="1" name="Ex09삼항연산자홀짝판별" qualified="false" references="true" similarDeclarations="false" stamp="1686530277119" textual="false" version="1.0"/>
+</session>

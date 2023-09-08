@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ex03다중if_else.Ex03다중if_else&apos; to &apos;Ex01다중if_else&apos;&#x0D;&#x0A;- Original project: &apos;Ex02조건문&apos;&#x0D;&#x0A;- Original element: &apos;ex03다중if_else.Ex03다중if_else&apos;&#x0D;&#x0A;- Renamed element: &apos;ex03다중if_else.Ex01다중if_else&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex03다중if_else&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ex03다중if_else{Ex03다중if_else.java[Ex03다중if_else" matchStrategy="1" name="Ex01다중if_else" qualified="false" references="true" similarDeclarations="false" stamp="1686539355431" textual="false" version="1.0"/>
+</session>
